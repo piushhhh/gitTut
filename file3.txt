@@ -1,5 +1,7 @@
 some text added to file 3
 new text added
 new text added
+some change in file 3
 new text added
 new text added
+
