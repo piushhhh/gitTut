@@ -1,2 +1,4 @@
 file1 contents now here will store ..
 some text added
+new text
+..
